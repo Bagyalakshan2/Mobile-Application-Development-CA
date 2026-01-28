@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548459679345",
+    "project_id": "memories-app-1fd8e",
+    "storage_bucket": "memories-app-1fd8e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548459679345:android:f918e51589955bbfc415d0",
+        "android_client_info": {
+          "package_name": "com.example.memories_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjA-AzO71yryhcCmspszjnzMeHS81hdHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
