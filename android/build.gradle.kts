@@ -1,4 +1,4 @@
-// android/build.gradle.kts
+
 
 buildscript {
     repositories {
@@ -15,7 +15,7 @@ allprojects {
     }
 }
 
-// Optional: clean task
+
 tasks.register<Delete>("clean") {
     delete(rootProject.buildDir)
 }
