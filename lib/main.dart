@@ -72,7 +72,7 @@ class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Memories")),
+      appBar: AppBar(title: Text("Memorie")),
       floatingActionButton: FloatingActionButton(
         child: Icon(Icons.camera),
         onPressed: pickImage,
